@@ -1,0 +1,1 @@
+Renomeando o nome do arquivo com comando git rm
