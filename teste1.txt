@@ -1,5 +1,14 @@
 Commitar para aprender git commint
+<<<<<<< HEAD
 a
 b
 c
 d
+=======
+e
+f
+g
+h
+i
+o
+>>>>>>> primeiro_branch
